@@ -14,5 +14,5 @@ sidebar:
 
 ---
 
-<h2>Who I am</h2>
+# About
 
