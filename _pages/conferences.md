@@ -1,6 +1,6 @@
 ---
 permalink: /conferences/
-layout: single
+layout: splash
 classes:
   - landing
   - dark-theme
