@@ -16,6 +16,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+    nav: docs
 
 toc: true
 ---
