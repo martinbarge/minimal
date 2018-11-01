@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -12,5 +12,11 @@ main:
   #   url: /sitemap/
   
 docs:
-  - title: "About"
+  - title: "Home"
     url: "https://martinbarge.github.io/minimal"
+  - title: "About"
+    url: "https://martinbarge.github.io/minimal/about"
+  - title: "Conferences"
+    url: "https://martinbarge.github.io/minimal/conferences"
+  - title: "Publications"
+    url: "https://martinbarge.github.io/minimal/publications"
