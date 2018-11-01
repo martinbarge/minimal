@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I'm a human somewhere"
+  location         : "London, UK"
   email            :
   links:
     - label: "Email"
@@ -288,5 +288,3 @@ defaults:
       comments: # true
       share: true
       related: true
-      
-include: "_pages"
