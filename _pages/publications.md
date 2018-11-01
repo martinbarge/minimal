@@ -4,15 +4,11 @@ layout: single
 classes:
   - landing
   - dark-theme
-
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
-
+  
 sidebar:
   nav: "docs"
-
 ---
+
 <h1>Publications</h1>
 
 - Fitzgerald, Alannah; Wu, Shaoqun; Barge, Martin. (2014). Investigating an open methodology for designing domain-specific language collections. In Sake Jager, Linda Bradley, Estelle J. Meima, Sylvie Thouësny (Eds), **CALL Design: Principles and Practice - Proceedings of the 2014 EUROCALL Conference**, Groningen, The Netherlands (pp. 88-95). Dublin Ireland: Research-publishing.net. doi: 10.14705/rpnet.2014.000200
