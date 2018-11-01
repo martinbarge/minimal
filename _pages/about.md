@@ -13,7 +13,7 @@ sidebar:
   nav: "docs"
 
 ---
-<h1>About me and my website</h1>
+<h1>About me</h1>
 
 ## Professional Background
 
