@@ -16,6 +16,8 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+
+toc: true
 ---
 
 <h1>About me</h1>
