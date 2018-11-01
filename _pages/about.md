@@ -1,18 +1,14 @@
 ---
 permalink: /about/
-layout: splash
+layout: single
 classes:
   - landing
   - dark-theme
-toc: true
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+
 ---
 
 # About me
