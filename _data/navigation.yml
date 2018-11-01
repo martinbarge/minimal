@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
   
 docs:
-  - title: "Home"
+  - title: "Posts"
     url: "https://martinbarge.github.io/minimal"
   - title: "About"
     url: "https://martinbarge.github.io/minimal/about"
