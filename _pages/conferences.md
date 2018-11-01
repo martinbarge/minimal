@@ -5,14 +5,10 @@ classes:
   - landing
   - dark-theme
 
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
-
 sidebar:
   nav: "docs"
-
 ---
+
 <h1>Conferences</h1>
 
 - 2018: **Does technology serve to liberate EAP practitioners, or enslave us?** <br>Martin Barge. Language Centre 5th CPD Conference 2018, Queen Mary University of London.
