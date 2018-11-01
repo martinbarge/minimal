@@ -20,4 +20,4 @@ sidebar:
 toc: true
 ---
 
-<h1>About me</h1>
+# About me
