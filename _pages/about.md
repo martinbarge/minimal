@@ -14,5 +14,5 @@ sidebar:
 
 ---
 
-## About
+## Who
 
